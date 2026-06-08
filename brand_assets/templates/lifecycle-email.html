@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Juniper Loop Lifecycle Email</title>
+    <link rel="stylesheet" href="../css/juniper-loop-tokens.css">
+    <style>
+      body { background: #f4eadc; padding: 24px; }
+      .email { max-width: 640px; margin: 0 auto; background: var(--jl-cloud); border: 1px solid var(--jl-stone); }
+      .header { padding: 24px 28px; border-bottom: 1px solid var(--jl-stone); }
+      .logo { width: 232px; max-width: 74%; height: auto; }
+      .hero img { display: block; width: 100%; height: auto; }
+      .content { padding: 34px 32px 38px; }
+      h1 { margin: 10px 0 12px; color: var(--jl-juniper); font: 600 36px/1.05 var(--jl-font-serif); letter-spacing: 0; }
+      p { margin: 0 0 20px; color: rgba(32, 35, 31, 0.78); font: 400 16px/1.55 var(--jl-font-sans); }
+      .module { display: grid; grid-template-columns: 112px 1fr; gap: 18px; align-items: center; margin-top: 28px; padding-top: 24px; border-top: 1px solid var(--jl-stone); }
+      .module img { width: 112px; height: 112px; object-fit: cover; border-radius: var(--jl-radius-md); }
+      .module h2 { margin: 0 0 8px; color: var(--jl-ink); font: 700 18px/1.25 var(--jl-font-sans); letter-spacing: 0; }
+      .module p { margin-bottom: 0; font-size: 14px; }
+      @media (max-width: 560px) {
+        body { padding: 0; }
+        .content { padding: 28px 22px 34px; }
+        h1 { font-size: 30px; }
+        .module { grid-template-columns: 1fr; }
+        .module img { width: 100%; height: auto; aspect-ratio: 4 / 3; }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="email">
+      <header class="header">
+        <img class="logo" src="../logo/juniper-loop-lockup.svg" alt="Juniper Loop">
+      </header>
+      <section class="hero">
+        <img src="../images/morning-routine-setup.png" alt="Morning routine objects arranged on a warm surface">
+      </section>
+      <section class="content">
+        <div class="jl-kicker">A small next step</div>
+        <h1 class="jl-display">Make tomorrow easier to start.</h1>
+        <p>Use this editable module as a lifecycle moment starter. Teams can adapt the copy, audience logic, and experience around their idea.</p>
+        <a class="jl-button" href="#">Choose a routine</a>
+        <article class="module">
+          <img src="../images/mindful-content-moment.png" alt="Abstract content and audio moment">
+          <div>
+            <h2>Three minutes, one useful check-in</h2>
+            <p>A calm content nudge for members exploring short, low-pressure routines.</p>
+          </div>
+        </article>
+      </section>
+    </main>
+  </body>
+</html>

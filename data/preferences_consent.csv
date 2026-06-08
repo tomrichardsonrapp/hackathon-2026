@@ -1,0 +1,301 @@
+member_id,email_permission,sms_permission,app_push_permission,quiet_hours_preference,message_tone_preference,reminder_frequency_preference,commerce_interest_level,community_interest_level
+JL-0001,false,true,false,No Preference,Guided,Low,High,Medium
+JL-0002,true,false,true,No Preference,Guided,High,Medium,Medium
+JL-0003,true,false,true,Morning,Calm,Low,Medium,Medium
+JL-0004,true,false,true,Evening,Practical,Low,Medium,Low
+JL-0005,true,false,true,Morning,Calm,Low,High,Medium
+JL-0006,true,true,false,No Preference,Practical,Low,Medium,Medium
+JL-0007,true,true,true,Morning,Guided,High,Medium,Medium
+JL-0008,true,false,false,No Preference,Calm,Medium,High,Medium
+JL-0009,true,false,false,Morning,Social,Medium,Medium,High
+JL-0010,true,false,true,Afternoon,Practical,Medium,Medium,High
+JL-0011,true,false,true,Afternoon,Social,Medium,Medium,Medium
+JL-0012,true,false,false,Evening,Practical,Medium,Medium,Medium
+JL-0013,true,true,true,Morning,Calm,Medium,High,Low
+JL-0014,true,false,false,Evening,Practical,High,Medium,Medium
+JL-0015,true,false,true,No Preference,Guided,High,Medium,Medium
+JL-0016,true,false,false,Afternoon,Practical,Low,Medium,Medium
+JL-0017,true,false,false,Afternoon,Practical,Medium,Medium,Medium
+JL-0018,true,true,false,Afternoon,Practical,Low,Medium,Medium
+JL-0019,true,true,true,Morning,Social,Medium,Medium,Medium
+JL-0020,true,true,true,Afternoon,Calm,Medium,Low,Medium
+JL-0021,true,false,true,Morning,Social,Low,Medium,Medium
+JL-0022,true,false,false,Morning,Guided,Medium,Low,Medium
+JL-0023,true,false,false,Evening,Practical,Medium,Medium,Medium
+JL-0024,true,false,true,Evening,Calm,Medium,Low,Medium
+JL-0025,true,false,true,No Preference,Practical,Medium,Medium,Medium
+JL-0026,true,false,true,Morning,Practical,Medium,Low,Medium
+JL-0027,false,false,true,No Preference,Practical,Medium,Medium,Medium
+JL-0028,true,false,true,Evening,Guided,Low,Medium,Medium
+JL-0029,true,true,false,No Preference,Calm,Low,Medium,High
+JL-0030,true,false,true,Evening,Calm,High,Medium,Medium
+JL-0031,true,false,true,Morning,Calm,High,Low,Medium
+JL-0032,true,false,true,Afternoon,Practical,Medium,Medium,Medium
+JL-0033,true,false,true,Evening,Guided,Medium,Medium,Medium
+JL-0034,true,false,true,No Preference,Practical,Medium,Medium,Medium
+JL-0035,true,false,true,Morning,Calm,Medium,Medium,High
+JL-0036,true,false,false,Afternoon,Guided,Medium,Medium,Medium
+JL-0037,true,false,true,Afternoon,Guided,High,Medium,Medium
+JL-0038,true,true,false,Evening,Practical,High,Medium,Medium
+JL-0039,true,false,false,Evening,Calm,Medium,Medium,Medium
+JL-0040,true,false,true,Evening,Calm,Medium,Medium,Medium
+JL-0041,true,false,true,Afternoon,Practical,High,Medium,Medium
+JL-0042,true,false,false,Afternoon,Calm,Low,Medium,Medium
+JL-0043,true,true,false,Morning,Social,Low,Medium,Low
+JL-0044,true,false,false,Afternoon,Guided,Low,Medium,Medium
+JL-0045,true,false,false,No Preference,Practical,Low,High,Medium
+JL-0046,true,false,true,Afternoon,Practical,Low,Medium,Medium
+JL-0047,true,false,false,No Preference,Practical,Medium,Medium,Medium
+JL-0048,true,true,true,No Preference,Calm,Medium,Medium,Medium
+JL-0049,true,true,true,No Preference,Calm,Medium,High,Medium
+JL-0050,true,false,true,Morning,Guided,Medium,Medium,Medium
+JL-0051,true,false,true,Morning,Social,Medium,Medium,Medium
+JL-0052,true,false,true,No Preference,Guided,Medium,Medium,Medium
+JL-0053,true,false,true,Morning,Calm,Medium,Medium,Medium
+JL-0054,true,true,false,Afternoon,Calm,Medium,Low,Medium
+JL-0055,true,false,true,No Preference,Calm,High,High,Medium
+JL-0056,true,false,true,Afternoon,Calm,High,Medium,Medium
+JL-0057,true,true,true,Evening,Social,Medium,Medium,High
+JL-0058,true,false,true,No Preference,Calm,Medium,Medium,Medium
+JL-0059,true,true,true,Afternoon,Practical,Medium,High,Medium
+JL-0060,true,true,true,Morning,Calm,Low,Medium,Medium
+JL-0061,true,false,false,Afternoon,Practical,Medium,High,Medium
+JL-0062,true,false,true,Afternoon,Practical,High,Medium,Medium
+JL-0063,true,false,true,No Preference,Guided,Medium,High,Medium
+JL-0064,true,true,true,Afternoon,Calm,Medium,Medium,Medium
+JL-0065,false,false,true,Afternoon,Guided,Low,Low,Low
+JL-0066,true,false,true,Afternoon,Calm,Low,Medium,Medium
+JL-0067,true,true,true,Morning,Social,Medium,Medium,Medium
+JL-0068,false,false,false,Morning,Social,Medium,Medium,Medium
+JL-0069,true,false,true,Afternoon,Practical,Low,Medium,Medium
+JL-0070,true,true,false,Evening,Practical,Low,Medium,Medium
+JL-0071,true,false,true,Evening,Guided,High,Medium,Medium
+JL-0072,true,false,true,Morning,Practical,Medium,Medium,Medium
+JL-0073,true,false,true,Evening,Practical,Low,Medium,Medium
+JL-0074,true,false,true,Evening,Guided,Low,Medium,Medium
+JL-0075,true,false,false,Evening,Calm,Low,Medium,Medium
+JL-0076,true,false,false,Afternoon,Guided,High,Low,Medium
+JL-0077,true,false,true,No Preference,Guided,High,Medium,Medium
+JL-0078,true,true,true,Morning,Calm,Medium,Medium,Medium
+JL-0079,true,false,true,Evening,Calm,High,Medium,Medium
+JL-0080,true,false,false,Afternoon,Calm,Medium,Medium,Medium
+JL-0081,true,true,true,Morning,Calm,Medium,Medium,Medium
+JL-0082,true,true,false,Morning,Practical,Medium,Medium,Medium
+JL-0083,true,false,false,Evening,Guided,Medium,High,Medium
+JL-0084,true,true,true,Morning,Guided,Medium,Medium,Medium
+JL-0085,true,false,false,No Preference,Practical,Medium,Medium,Medium
+JL-0086,true,false,true,Morning,Practical,Low,Medium,Medium
+JL-0087,true,true,true,Morning,Calm,Low,Medium,Medium
+JL-0088,true,false,true,Afternoon,Practical,Low,Medium,Medium
+JL-0089,true,false,false,Afternoon,Practical,Low,Medium,Medium
+JL-0090,true,false,true,Afternoon,Guided,Low,Medium,Medium
+JL-0091,true,false,false,Morning,Practical,Low,High,High
+JL-0092,true,false,false,Evening,Guided,Low,Medium,High
+JL-0093,true,true,false,No Preference,Guided,Low,Medium,Medium
+JL-0094,true,true,false,Morning,Guided,Low,High,Medium
+JL-0095,true,false,true,Morning,Practical,Low,Medium,Medium
+JL-0096,true,false,false,No Preference,Guided,Low,High,High
+JL-0097,true,false,true,Evening,Guided,Low,Medium,Medium
+JL-0098,true,true,false,Evening,Social,Medium,High,Medium
+JL-0099,true,false,false,Morning,Guided,Low,Low,Low
+JL-0100,true,false,false,Afternoon,Calm,Medium,High,Medium
+JL-0101,true,true,false,Evening,Calm,Low,Medium,Medium
+JL-0102,true,false,true,Evening,Calm,Medium,Medium,Medium
+JL-0103,true,false,true,Evening,Calm,High,Medium,Medium
+JL-0104,true,false,true,Morning,Practical,Medium,Medium,High
+JL-0105,false,false,true,No Preference,Calm,Medium,Medium,Medium
+JL-0106,false,true,true,Evening,Practical,Low,Medium,Medium
+JL-0107,true,false,true,Evening,Practical,High,Medium,Medium
+JL-0108,true,true,true,No Preference,Calm,Medium,Low,Medium
+JL-0109,true,true,true,Evening,Social,High,Medium,Medium
+JL-0110,true,false,false,Afternoon,Calm,Medium,Medium,Medium
+JL-0111,true,false,false,Evening,Calm,Medium,Medium,Medium
+JL-0112,true,false,true,Afternoon,Practical,Medium,Medium,Medium
+JL-0113,true,true,false,Morning,Calm,Medium,Medium,Medium
+JL-0114,true,false,true,Evening,Calm,Medium,Medium,Medium
+JL-0115,true,false,true,No Preference,Social,High,Medium,Medium
+JL-0116,true,false,false,Evening,Guided,Low,High,Medium
+JL-0117,true,false,false,Evening,Practical,Medium,Low,Medium
+JL-0118,true,true,true,Morning,Practical,Medium,Medium,Medium
+JL-0119,true,false,true,No Preference,Practical,Low,High,High
+JL-0120,true,false,true,No Preference,Calm,Low,High,Medium
+JL-0121,true,false,true,Afternoon,Calm,Medium,High,Medium
+JL-0122,true,false,true,Morning,Practical,Medium,Medium,Medium
+JL-0123,true,false,false,Morning,Practical,Low,Medium,Medium
+JL-0124,true,false,true,Afternoon,Social,High,Medium,High
+JL-0125,true,false,true,Afternoon,Guided,Medium,High,Medium
+JL-0126,true,false,true,No Preference,Practical,High,High,Low
+JL-0127,true,false,true,Morning,Practical,High,Medium,Medium
+JL-0128,true,false,true,No Preference,Guided,Medium,Low,Medium
+JL-0129,true,true,false,Morning,Practical,Low,Medium,Medium
+JL-0130,true,false,true,Evening,Guided,Medium,Medium,Medium
+JL-0131,true,false,true,Morning,Practical,Low,Medium,Medium
+JL-0132,true,false,true,Afternoon,Calm,Medium,Medium,Medium
+JL-0133,true,false,true,Morning,Calm,Medium,Medium,Medium
+JL-0134,false,false,true,Evening,Guided,Medium,Medium,Medium
+JL-0135,true,false,true,No Preference,Guided,High,High,Medium
+JL-0136,false,false,true,Morning,Calm,Low,High,Medium
+JL-0137,true,true,true,Afternoon,Calm,Medium,Medium,Medium
+JL-0138,true,true,true,No Preference,Social,Medium,High,High
+JL-0139,true,false,true,Afternoon,Social,Low,Medium,Medium
+JL-0140,true,false,false,No Preference,Social,Low,Medium,Medium
+JL-0141,true,true,true,Morning,Calm,Medium,Medium,Medium
+JL-0142,true,true,true,No Preference,Calm,Medium,Medium,Medium
+JL-0143,true,true,false,Morning,Calm,Medium,High,Medium
+JL-0144,true,false,true,No Preference,Calm,High,Medium,Medium
+JL-0145,true,false,false,Morning,Practical,Low,Medium,Medium
+JL-0146,true,false,false,Evening,Social,Low,Low,Medium
+JL-0147,true,false,false,No Preference,Practical,Low,High,High
+JL-0148,true,false,true,Evening,Calm,Medium,High,High
+JL-0149,true,false,true,No Preference,Practical,Low,Medium,Medium
+JL-0150,true,false,true,No Preference,Practical,Medium,Low,Medium
+JL-0151,true,true,true,Afternoon,Practical,Low,Medium,Low
+JL-0152,false,false,false,Afternoon,Social,Medium,High,Medium
+JL-0153,true,false,true,Morning,Practical,Low,Medium,Medium
+JL-0154,true,true,false,Evening,Practical,Medium,Medium,Medium
+JL-0155,true,false,true,No Preference,Calm,Medium,Medium,Medium
+JL-0156,true,false,false,Afternoon,Guided,Medium,High,Low
+JL-0157,true,false,true,No Preference,Guided,High,Medium,Medium
+JL-0158,true,true,true,Morning,Practical,Low,Medium,Medium
+JL-0159,true,false,true,Afternoon,Calm,Medium,Medium,Medium
+JL-0160,true,false,false,No Preference,Guided,Low,High,Medium
+JL-0161,true,false,true,Evening,Practical,Low,Medium,Medium
+JL-0162,false,false,false,No Preference,Social,High,Medium,Medium
+JL-0163,true,false,false,No Preference,Social,Low,Medium,Medium
+JL-0164,true,false,false,Afternoon,Social,Low,Medium,Medium
+JL-0165,true,false,true,Afternoon,Guided,Low,Medium,Medium
+JL-0166,true,false,true,Afternoon,Practical,Low,Low,Low
+JL-0167,true,false,true,Morning,Guided,Medium,High,High
+JL-0168,true,true,false,Evening,Practical,Low,Medium,Medium
+JL-0169,true,false,true,Evening,Practical,Medium,Medium,Medium
+JL-0170,true,false,true,No Preference,Calm,High,High,Medium
+JL-0171,true,false,true,No Preference,Practical,Low,Medium,Medium
+JL-0172,true,false,false,Evening,Practical,Medium,Medium,Medium
+JL-0173,true,false,true,Afternoon,Calm,Medium,Medium,Low
+JL-0174,true,false,false,Morning,Social,Medium,Medium,Low
+JL-0175,true,true,false,Morning,Practical,Medium,Medium,Medium
+JL-0176,true,true,true,Morning,Practical,High,High,High
+JL-0177,true,true,true,Morning,Calm,Medium,Medium,Medium
+JL-0178,true,false,true,No Preference,Calm,Low,Medium,Medium
+JL-0179,true,false,false,No Preference,Calm,Low,Medium,Medium
+JL-0180,true,false,false,No Preference,Calm,High,Medium,Medium
+JL-0181,true,false,false,Morning,Practical,Low,High,Medium
+JL-0182,true,false,true,Morning,Calm,Medium,Medium,Medium
+JL-0183,true,false,true,Evening,Guided,Medium,High,Medium
+JL-0184,false,true,true,Evening,Guided,Low,Medium,Medium
+JL-0185,true,false,true,Morning,Calm,Low,Medium,Medium
+JL-0186,true,false,false,Afternoon,Practical,Low,Medium,Medium
+JL-0187,true,true,true,Morning,Calm,Low,Medium,Medium
+JL-0188,true,false,true,No Preference,Social,Medium,Medium,Medium
+JL-0189,true,false,true,No Preference,Calm,Medium,Medium,Medium
+JL-0190,true,false,false,Afternoon,Social,Low,High,Medium
+JL-0191,true,false,true,Morning,Practical,Low,Medium,Medium
+JL-0192,true,true,true,Evening,Calm,Low,High,Medium
+JL-0193,true,false,false,Afternoon,Guided,Low,High,Medium
+JL-0194,true,false,false,Morning,Calm,Low,Medium,Medium
+JL-0195,true,true,true,Afternoon,Guided,Low,High,Medium
+JL-0196,true,false,true,Evening,Calm,Low,Medium,Medium
+JL-0197,true,false,false,No Preference,Practical,High,Low,Medium
+JL-0198,true,false,false,No Preference,Practical,Low,Medium,Medium
+JL-0199,true,false,true,Morning,Calm,Low,Low,Low
+JL-0200,true,false,true,Evening,Practical,Medium,Medium,Medium
+JL-0201,true,true,true,Afternoon,Social,Medium,Medium,Medium
+JL-0202,true,false,true,Morning,Social,Low,Low,Medium
+JL-0203,true,false,true,Evening,Guided,Medium,High,High
+JL-0204,true,false,false,No Preference,Calm,High,Medium,Medium
+JL-0205,true,false,true,Evening,Practical,Low,Low,Medium
+JL-0206,true,false,true,No Preference,Calm,Low,High,Medium
+JL-0207,false,true,true,Afternoon,Practical,Medium,Medium,Medium
+JL-0208,true,true,false,Afternoon,Guided,High,Medium,Medium
+JL-0209,true,false,false,Evening,Social,Low,Medium,Medium
+JL-0210,true,false,true,No Preference,Guided,Medium,Medium,Medium
+JL-0211,true,false,true,Evening,Calm,Low,Medium,Medium
+JL-0212,false,false,false,Morning,Guided,Medium,Medium,Medium
+JL-0213,true,false,true,Evening,Calm,Medium,Medium,Medium
+JL-0214,true,false,false,No Preference,Practical,Medium,Medium,Medium
+JL-0215,false,true,true,Evening,Guided,Medium,Medium,Medium
+JL-0216,true,true,true,No Preference,Social,Medium,Medium,Medium
+JL-0217,true,false,true,Afternoon,Social,Medium,High,Medium
+JL-0218,true,false,true,No Preference,Practical,High,Medium,Medium
+JL-0219,true,false,true,Morning,Guided,Medium,Medium,Medium
+JL-0220,true,true,false,No Preference,Practical,Medium,High,Medium
+JL-0221,true,false,true,Afternoon,Practical,High,High,Medium
+JL-0222,true,false,true,Evening,Practical,Low,Medium,Medium
+JL-0223,true,false,true,Afternoon,Social,Medium,Medium,Medium
+JL-0224,true,false,true,No Preference,Social,Medium,Medium,High
+JL-0225,true,false,true,No Preference,Calm,Low,Medium,Medium
+JL-0226,false,false,true,No Preference,Practical,Low,High,Low
+JL-0227,true,true,false,Morning,Practical,Low,Medium,Medium
+JL-0228,true,true,false,Morning,Practical,Medium,Medium,Medium
+JL-0229,true,false,true,No Preference,Calm,High,High,Medium
+JL-0230,true,false,false,Afternoon,Calm,Low,High,Medium
+JL-0231,true,false,true,Morning,Calm,Low,High,Medium
+JL-0232,true,true,true,Afternoon,Calm,Medium,High,Medium
+JL-0233,true,true,true,No Preference,Guided,Low,Medium,Medium
+JL-0234,true,true,false,Morning,Calm,Low,Medium,Medium
+JL-0235,true,false,false,Evening,Practical,Low,High,Medium
+JL-0236,true,true,true,No Preference,Social,High,High,Medium
+JL-0237,true,false,false,Afternoon,Calm,Medium,Medium,Medium
+JL-0238,true,false,true,No Preference,Calm,Medium,High,Medium
+JL-0239,true,true,true,Morning,Practical,Medium,High,Medium
+JL-0240,true,false,true,Evening,Practical,Low,Medium,Medium
+JL-0241,true,true,false,Morning,Practical,Medium,Medium,Medium
+JL-0242,true,false,true,Evening,Practical,Medium,Medium,Medium
+JL-0243,true,true,true,Morning,Calm,High,Medium,Medium
+JL-0244,false,false,true,No Preference,Calm,Low,Low,High
+JL-0245,true,false,true,Afternoon,Calm,Medium,Medium,Medium
+JL-0246,true,true,false,Afternoon,Guided,Low,Medium,Medium
+JL-0247,true,false,true,Afternoon,Calm,Medium,Medium,Medium
+JL-0248,true,true,false,Morning,Calm,Low,Medium,Medium
+JL-0249,true,false,false,Afternoon,Calm,Medium,Medium,Medium
+JL-0250,true,true,true,Evening,Guided,Medium,Medium,Medium
+JL-0251,true,false,false,Evening,Calm,Low,Low,Medium
+JL-0252,true,true,true,No Preference,Practical,Low,Medium,Medium
+JL-0253,true,false,true,Afternoon,Social,Medium,High,Medium
+JL-0254,true,false,true,Afternoon,Guided,Medium,Medium,High
+JL-0255,true,false,true,Evening,Practical,Low,Medium,High
+JL-0256,true,false,true,Evening,Calm,Medium,Medium,Medium
+JL-0257,true,false,true,Afternoon,Calm,Low,High,High
+JL-0258,true,false,true,Morning,Guided,Medium,Low,Medium
+JL-0259,true,false,true,Afternoon,Calm,Medium,High,High
+JL-0260,true,false,true,No Preference,Guided,Low,Medium,Medium
+JL-0261,true,true,false,Evening,Calm,Medium,High,High
+JL-0262,true,false,true,Afternoon,Calm,High,Medium,Medium
+JL-0263,true,false,false,No Preference,Practical,Medium,Medium,Medium
+JL-0264,true,false,true,Evening,Practical,Low,Medium,Medium
+JL-0265,true,false,true,Evening,Guided,Medium,Medium,Medium
+JL-0266,true,false,true,Evening,Practical,Low,High,High
+JL-0267,true,false,true,Afternoon,Social,High,Medium,Medium
+JL-0268,true,true,true,Afternoon,Social,Low,High,Medium
+JL-0269,true,false,false,No Preference,Calm,Medium,Medium,Medium
+JL-0270,true,false,false,Afternoon,Practical,Low,High,Medium
+JL-0271,false,false,false,No Preference,Calm,Medium,Medium,Medium
+JL-0272,false,true,true,Evening,Calm,Low,High,Medium
+JL-0273,true,false,true,Morning,Practical,Low,Low,Medium
+JL-0274,true,false,false,Afternoon,Calm,Low,Medium,Medium
+JL-0275,true,false,true,Morning,Social,Medium,Medium,Medium
+JL-0276,true,false,true,Evening,Calm,Low,Medium,Medium
+JL-0277,true,false,false,No Preference,Practical,Low,Medium,Medium
+JL-0278,true,true,true,Morning,Practical,High,Low,Medium
+JL-0279,true,true,true,Morning,Practical,Medium,High,Medium
+JL-0280,true,false,true,Afternoon,Social,Medium,Medium,Medium
+JL-0281,true,true,true,Afternoon,Practical,Medium,Medium,Medium
+JL-0282,true,false,false,No Preference,Practical,High,Low,High
+JL-0283,true,false,true,Afternoon,Guided,Medium,Medium,Medium
+JL-0284,true,false,true,Morning,Practical,Low,Medium,Medium
+JL-0285,true,true,false,Evening,Practical,High,High,High
+JL-0286,true,false,true,Evening,Social,Medium,Medium,Medium
+JL-0287,true,false,false,Evening,Guided,Medium,High,Medium
+JL-0288,true,false,true,Morning,Calm,High,High,High
+JL-0289,true,true,true,No Preference,Guided,Low,Medium,Medium
+JL-0290,true,true,true,Evening,Practical,Medium,High,Medium
+JL-0291,true,false,false,No Preference,Social,Medium,Medium,Medium
+JL-0292,true,true,true,Evening,Calm,Medium,High,High
+JL-0293,true,true,false,No Preference,Practical,Low,Medium,Medium
+JL-0294,true,true,false,No Preference,Practical,Low,High,High
+JL-0295,true,true,true,Morning,Calm,Medium,Medium,Medium
+JL-0296,true,false,false,Afternoon,Guided,High,High,High
+JL-0297,true,false,false,No Preference,Practical,High,Medium,Medium
+JL-0298,true,false,true,Morning,Guided,Medium,Medium,Medium
+JL-0299,true,false,false,No Preference,Practical,Medium,High,Medium
+JL-0300,true,false,true,Evening,Practical,High,High,Medium

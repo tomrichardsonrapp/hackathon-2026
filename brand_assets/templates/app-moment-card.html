@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Juniper Loop App Moment Card</title>
+    <link rel="stylesheet" href="../css/juniper-loop-tokens.css">
+    <style>
+      body { min-height: 100vh; display: grid; place-items: center; padding: 24px; background: linear-gradient(135deg, #dcebe5, #f4eadc 60%, #fbfaf7); }
+      .phone { width: min(390px, 100%); padding: 16px; border-radius: 28px; background: #20231f; box-shadow: 0 24px 70px var(--jl-shadow); }
+      .screen { overflow: hidden; border-radius: 18px; background: var(--jl-cloud); }
+      .top { display: flex; align-items: center; gap: 12px; padding: 18px; border-bottom: 1px solid var(--jl-stone); }
+      .mark { width: 38px; height: 38px; }
+      .brand { color: var(--jl-juniper); font: 800 16px/1 var(--jl-font-sans); letter-spacing: 0; }
+      .image { width: 100%; aspect-ratio: 1.35 / 1; object-fit: cover; display: block; }
+      .card { padding: 22px; }
+      h1 { margin: 8px 0 10px; color: var(--jl-juniper); font: 600 28px/1.08 var(--jl-font-serif); letter-spacing: 0; }
+      p { margin: 0 0 18px; color: rgba(32, 35, 31, 0.78); font: 400 15px/1.5 var(--jl-font-sans); }
+      .actions { display: flex; gap: 10px; flex-wrap: wrap; }
+    </style>
+  </head>
+  <body>
+    <main class="phone">
+      <section class="screen">
+        <div class="top">
+          <img class="mark" src="../logo/juniper-loop-mark.svg" alt="">
+          <div class="brand">Juniper Loop</div>
+        </div>
+        <img class="image" src="../images/community-prompt-moment.png" alt="Abstract community prompt composition">
+        <div class="card">
+          <div class="jl-kicker">Today in your loop</div>
+          <h1 class="jl-display">Pick one small reset.</h1>
+          <p>A reusable app card for teams exploring routines, content, community, commerce, or lifecycle orchestration.</p>
+          <div class="actions">
+            <a class="jl-button" href="#">Start</a>
+            <a class="jl-button secondary" href="#">Later</a>
+          </div>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>

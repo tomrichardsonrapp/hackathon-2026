@@ -1,0 +1,68 @@
+:root {
+  --jl-juniper: #245447;
+  --jl-sprout: #8fbf7f;
+  --jl-mist: #dcebe5;
+  --jl-oat: #f4eadc;
+  --jl-sunlit: #e9b66d;
+  --jl-plum: #5f4b66;
+  --jl-ink: #20231f;
+  --jl-cloud: #fbfaf7;
+  --jl-stone: #d8d0c3;
+  --jl-shadow: rgba(36, 84, 71, 0.16);
+
+  --jl-font-sans: "Avenir Next", Avenir, "Gill Sans", "Trebuchet MS", sans-serif;
+  --jl-font-serif: "Iowan Old Style", Georgia, "Times New Roman", serif;
+
+  --jl-radius-sm: 6px;
+  --jl-radius-md: 10px;
+  --jl-max-width: 1120px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--jl-cloud);
+  color: var(--jl-ink);
+  font-family: var(--jl-font-sans);
+}
+
+.jl-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 0 18px;
+  border: 1px solid var(--jl-juniper);
+  border-radius: var(--jl-radius-sm);
+  background: var(--jl-juniper);
+  color: var(--jl-cloud);
+  font: 700 14px/1 var(--jl-font-sans);
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.jl-button.secondary {
+  background: transparent;
+  color: var(--jl-juniper);
+}
+
+.jl-kicker {
+  color: var(--jl-plum);
+  font: 700 12px/1.2 var(--jl-font-sans);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.jl-display {
+  font-family: var(--jl-font-serif);
+  font-weight: 600;
+  letter-spacing: 0;
+}
+
+.jl-copy {
+  color: rgba(32, 35, 31, 0.78);
+  font: 400 16px/1.55 var(--jl-font-sans);
+}

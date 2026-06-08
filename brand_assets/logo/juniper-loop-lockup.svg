@@ -1,0 +1,16 @@
+<svg width="720" height="180" viewBox="0 0 720 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Juniper Loop logo lockup">
+  <rect width="720" height="180" rx="18" fill="#FBFAF7"/>
+  <g transform="translate(42 34)">
+    <rect width="112" height="112" rx="30" fill="#245447"/>
+    <path d="M56 18C77 18 94 35 94 56C94 77 77 94 56 94C35 94 18 77 18 56C18 35 35 18 56 18Z" stroke="#F4EADC" stroke-width="9"/>
+    <path d="M34 58C47 39 70 34 86 43C81 62 60 78 38 72C34 71 31 63 34 58Z" fill="#8FBF7F"/>
+    <path d="M38 70C54 60 67 50 85 43" stroke="#245447" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="35" cy="34" r="7" fill="#E9B66D"/>
+  </g>
+  <g transform="translate(184 48)">
+    <text x="0" y="40" fill="#20231F" font-family="Avenir Next, Gill Sans, Trebuchet MS, sans-serif" font-size="42" font-weight="700" letter-spacing="0">Juniper Loop</text>
+    <text x="2" y="76" fill="#5F4B66" font-family="Avenir Next, Gill Sans, Trebuchet MS, sans-serif" font-size="18" font-weight="700" letter-spacing="4">EVERYDAY HABITS</text>
+    <path d="M0 96H392" stroke="#D8D0C3" stroke-width="2"/>
+    <text x="0" y="124" fill="#245447" font-family="Avenir Next, Gill Sans, Trebuchet MS, sans-serif" font-size="16" font-weight="600" letter-spacing="0">Small routines, made easier</text>
+  </g>
+</svg>

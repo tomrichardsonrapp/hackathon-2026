@@ -1,0 +1,301 @@
+member_id,first_name,region,membership_status,lifecycle_stage,plan_type,join_date,days_since_join,primary_habit_interest,secondary_habit_interest,preferred_content_format,preferred_channel,monthly_content_views,routine_starts_90d,routine_completions_90d,community_actions_90d,shop_orders_12m,average_order_value,relationship_signal
+JL-0001,Rowan,Southwest,Active,New,Annual,2026-02-27,100,Rest,Mindful,Video,Email,13,8,3,3,3,45.96,65
+JL-0002,Harper,Southeast,Active,Slipping,Annual,2026-05-25,13,Nourish,Connect,Community Prompt,In App,13,4,2,2,1,58.34,48
+JL-0003,Skyler,West,Active,Established,Annual,2026-04-29,39,Mindful,Nourish,Live Session,Email,20,6,4,2,2,42.22,90
+JL-0004,Reese,Pacific Northwest,Active,Established,Monthly,2026-01-02,156,Move,Connect,Community Prompt,Email,21,12,6,0,1,56.12,85
+JL-0005,Morgan,Southeast,Active,Established,Monthly,2025-12-01,188,Rest,Nourish,Live Session,App Push,23,11,5,5,4,24.67,98
+JL-0006,Avery,Midwest,Prospect,Prospect,Free,2025-03-23,441,Nourish,Organize,Article,App Push,19,10,5,1,2,37.93,77
+JL-0007,Riley,Pacific Northwest,Active,New,Free,2026-05-27,11,Connect,Organize,Community Prompt,Email,13,5,2,3,1,16.58,53
+JL-0008,Quinn,West,Active,Building,Monthly,2024-12-25,529,Connect,Move,Video,In App,19,6,4,4,3,59.76,83
+JL-0009,Reese,Southwest,Active,Established,Monthly,2024-12-24,530,Connect,Nourish,Article,In App,22,10,4,7,1,16.33,98
+JL-0010,Jamie,Northeast,Active,Established,Monthly,2026-05-10,28,Organize,Move,Community Prompt,Email,21,13,6,8,1,29.42,93
+JL-0011,Drew,West,Prospect,Prospect,Free,2025-03-19,445,Nourish,Move,Audio,In App,19,8,4,2,1,36.13,71
+JL-0012,Kendall,Northeast,Active,Slipping,Monthly,2026-04-14,54,Mindful,Connect,Article,Email,11,5,2,1,2,18.59,59
+JL-0013,Drew,Pacific Northwest,Trial,Building,Monthly,2026-05-09,29,Nourish,Connect,Live Session,Email,18,11,7,0,3,64.67,97
+JL-0014,Casey,Southeast,Canceled,Dormant,Free,2026-02-08,119,Rest,Mindful,Live Session,In App,14,9,6,2,2,32.67,71
+JL-0015,Quinn,West,Trial,Building,Monthly,2025-05-06,397,Rest,Connect,Live Session,Web,23,10,6,1,1,58.38,94
+JL-0016,Jamie,Midwest,Active,New,Free,2026-03-06,93,Organize,Rest,Live Session,In App,10,7,5,1,2,51.81,70
+JL-0017,Emerson,Northeast,Active,Slipping,Free,2026-05-22,16,Organize,Nourish,Checklist,In App,14,9,7,5,1,46.18,75
+JL-0018,Taylor,Southwest,Active,New,Free,2026-01-11,147,Move,Nourish,Checklist,App Push,9,4,2,3,2,63.42,49
+JL-0019,Drew,Northeast,Trial,New,Shop Only,2026-05-13,25,Nourish,Rest,Live Session,In App,17,5,3,1,1,58.44,69
+JL-0020,Kendall,Southeast,Active,Building,Free,2026-05-02,36,Connect,Organize,Community Prompt,Web,15,10,5,3,0,22.29,74
+JL-0021,Avery,Midwest,Active,Established,Annual,2024-08-18,658,Connect,Move,Community Prompt,Email,28,16,11,2,2,48.76,98
+JL-0022,Emerson,Southeast,Prospect,Prospect,Free,2026-05-22,16,Mindful,Connect,Article,Web,19,9,3,4,0,63.76,78
+JL-0023,Jordan,Pacific Northwest,Prospect,Prospect,Free,2025-04-19,414,Organize,Nourish,Checklist,Email,8,3,1,1,2,62.89,47
+JL-0024,Harper,Southwest,Prospect,Prospect,Free,2024-07-20,687,Move,Organize,Live Session,Email,15,6,2,2,0,17.06,54
+JL-0025,Kendall,Midwest,Active,Building,Shop Only,2026-02-04,123,Rest,Move,Live Session,Email,21,7,3,3,1,52.38,72
+JL-0026,Finley,Northeast,Prospect,Prospect,Free,2025-06-27,345,Nourish,Organize,Community Prompt,SMS,14,6,2,1,0,23.17,52
+JL-0027,Skyler,Pacific Northwest,Active,Building,Annual,2025-12-19,170,Rest,Organize,Live Session,App Push,22,13,7,3,2,23.44,96
+JL-0028,Jamie,West,Active,Slipping,Annual,2025-12-30,159,Nourish,Move,Video,Email,4,2,1,5,2,34,45
+JL-0029,Emerson,West,Active,Established,Monthly,2025-12-18,171,Move,Connect,Audio,Email,31,12,9,6,1,28.37,98
+JL-0030,Reese,Northeast,Active,New,Monthly,2026-04-03,65,Rest,Mindful,Audio,In App,8,5,2,1,1,26.38,44
+JL-0031,Parker,West,Canceled,Dormant,Free,2025-11-18,201,Organize,Mindful,Live Session,Email,6,3,1,1,0,33.38,35
+JL-0032,Logan,Pacific Northwest,Paused,Building,Free,2025-10-27,223,Organize,Rest,Checklist,App Push,18,5,4,5,2,54.94,89
+JL-0033,Emerson,West,Active,Building,Monthly,2026-01-19,139,Move,Connect,Checklist,Email,15,8,4,3,1,56.45,74
+JL-0034,Drew,Southwest,Prospect,Prospect,Free,2025-12-27,162,Connect,Mindful,Article,Email,11,7,5,2,1,65.48,61
+JL-0035,Cameron,Pacific Northwest,Active,Established,Annual,2026-02-22,105,Nourish,Connect,Checklist,App Push,31,10,6,11,2,58.1,98
+JL-0036,Quinn,Pacific Northwest,Prospect,Prospect,Free,2026-05-08,30,Organize,Mindful,Video,Email,17,9,2,3,1,16.93,57
+JL-0037,Skyler,West,Trial,New,Free,2026-04-25,43,Move,Organize,Community Prompt,Email,11,7,3,3,1,22.91,62
+JL-0038,Emerson,Pacific Northwest,Paused,Dormant,Monthly,2026-05-17,21,Mindful,Connect,Checklist,App Push,10,6,4,1,2,57.77,55
+JL-0039,Casey,Southeast,Canceled,Building,Free,2026-04-06,62,Rest,Mindful,Community Prompt,Email,16,10,4,2,1,44.47,78
+JL-0040,Emerson,Southwest,Active,Building,Annual,2025-10-22,228,Mindful,Connect,Video,In App,21,13,10,3,1,26.71,98
+JL-0041,Taylor,Midwest,Active,Slipping,Shop Only,2024-06-26,711,Mindful,Rest,Live Session,App Push,4,2,1,3,1,24.11,31
+JL-0042,Avery,Northeast,Prospect,Prospect,Free,2026-02-13,114,Connect,Mindful,Video,In App,9,5,2,1,2,53.38,46
+JL-0043,Avery,West,Active,New,Free,2026-05-13,25,Nourish,Rest,Audio,Email,14,7,5,0,2,25.23,64
+JL-0044,Avery,West,Active,New,Monthly,2026-05-19,19,Move,Rest,Checklist,App Push,16,7,5,4,2,16.62,89
+JL-0045,Riley,Midwest,Active,Building,Monthly,2024-06-29,708,Organize,Nourish,Community Prompt,In App,18,8,2,2,3,51.83,69
+JL-0046,Finley,Southwest,Active,Building,Annual,2026-01-28,130,Connect,Mindful,Live Session,App Push,16,9,6,4,2,40.53,87
+JL-0047,Casey,Midwest,Trial,New,Annual,2025-11-07,212,Move,Connect,Checklist,In App,19,6,3,2,2,66.34,74
+JL-0048,Sage,Midwest,Active,Slipping,Monthly,2026-03-24,75,Organize,Mindful,Audio,App Push,12,5,3,3,2,41.36,68
+JL-0049,Jordan,Northeast,Active,Building,Annual,2025-12-20,169,Move,Organize,Community Prompt,App Push,15,6,3,2,0,34.26,58
+JL-0050,Logan,Midwest,Prospect,Prospect,Free,2025-08-13,298,Organize,Mindful,Checklist,Web,20,11,3,3,2,56.29,74
+JL-0051,Reese,Southeast,Active,New,Free,2025-01-06,517,Organize,Rest,Checklist,SMS,16,9,3,2,2,29.13,65
+JL-0052,Harper,Southeast,Prospect,Prospect,Free,2025-11-05,214,Connect,Rest,Live Session,Email,15,5,2,4,1,28.29,67
+JL-0053,Jamie,West,Paused,Dormant,Shop Only,2024-09-07,638,Nourish,Rest,Video,App Push,6,3,2,2,1,22.28,43
+JL-0054,Avery,Southwest,Paused,Slipping,Annual,2024-08-03,673,Organize,Nourish,Audio,Email,11,7,5,2,0,63.65,51
+JL-0055,Rowan,Northeast,Trial,New,Monthly,2026-02-04,123,Nourish,Organize,Video,App Push,12,7,5,4,3,52.32,79
+JL-0056,Cameron,Southwest,Paused,Building,Free,2025-11-25,194,Rest,Connect,Checklist,SMS,14,8,4,2,2,26.83,66
+JL-0057,Logan,Northeast,Active,New,Monthly,2024-08-30,646,Connect,Rest,Live Session,Email,12,7,5,0,0,32.1,60
+JL-0058,Skyler,Northeast,Canceled,Dormant,Free,2025-08-28,283,Rest,Mindful,Video,In App,14,5,2,4,2,47.15,68
+JL-0059,Taylor,Northeast,Active,Building,Monthly,2025-09-10,270,Connect,Nourish,Article,Email,13,4,2,4,3,63.07,70
+JL-0060,Rowan,Southwest,Trial,New,Monthly,2025-12-19,170,Connect,Rest,Checklist,App Push,21,12,7,3,1,33.09,95
+JL-0061,Riley,Northeast,Active,Building,Annual,2026-02-26,101,Organize,Mindful,Article,Email,23,15,8,4,3,25.9,98
+JL-0062,Jordan,Pacific Northwest,Paused,Slipping,Monthly,2024-07-13,694,Organize,Move,Audio,App Push,10,3,2,5,1,33.66,46
+JL-0063,Jordan,Midwest,Trial,New,Monthly,2025-03-15,449,Nourish,Move,Audio,Web,12,5,2,5,0,19.49,50
+JL-0064,Jordan,West,Active,Building,Annual,2025-09-13,267,Move,Mindful,Checklist,Email,14,7,5,1,2,61.43,72
+JL-0065,Skyler,Midwest,Active,Building,Free,2026-04-03,65,Mindful,Move,Video,App Push,12,3,2,0,0,54.37,45
+JL-0066,Sage,Pacific Northwest,Active,Established,Free,2025-02-06,486,Organize,Rest,Video,Web,25,13,7,1,2,60.37,98
+JL-0067,Quinn,Pacific Northwest,Prospect,Prospect,Free,2026-01-15,143,Rest,Nourish,Checklist,SMS,19,12,9,1,2,42.12,98
+JL-0068,Finley,West,Active,New,Monthly,2026-05-27,11,Organize,Move,Audio,In App,18,12,6,2,2,26.25,82
+JL-0069,Riley,Northeast,Active,Established,Free,2025-06-23,349,Connect,Mindful,Community Prompt,App Push,19,9,3,3,1,35.66,68
+JL-0070,Logan,Southwest,Active,Building,Monthly,2025-02-21,471,Connect,Nourish,Live Session,Email,19,6,4,2,2,67.71,82
+JL-0071,Drew,Southwest,Prospect,Prospect,Free,2025-12-29,160,Organize,Move,Video,App Push,20,10,4,3,2,64.5,88
+JL-0072,Riley,Southeast,Active,New,Annual,2025-09-09,271,Organize,Nourish,Community Prompt,Email,16,10,6,2,1,44.52,79
+JL-0073,Reese,Southwest,Active,Slipping,Monthly,2026-04-13,55,Nourish,Connect,Video,App Push,13,8,5,4,1,56.29,71
+JL-0074,Sage,Midwest,Active,Slipping,Shop Only,2024-11-02,582,Rest,Mindful,Checklist,App Push,11,7,3,3,2,51.66,54
+JL-0075,Finley,Midwest,Active,Established,Monthly,2026-05-12,26,Nourish,Organize,Community Prompt,SMS,29,18,10,4,1,24.54,98
+JL-0076,Reese,Southeast,Active,Slipping,Monthly,2026-03-21,78,Move,Organize,Article,Email,14,7,4,2,0,28.15,68
+JL-0077,Morgan,Southeast,Trial,New,Monthly,2026-04-17,51,Organize,Rest,Checklist,Email,16,6,4,3,2,31.79,75
+JL-0078,Drew,Southwest,Paused,Building,Annual,2025-08-30,281,Organize,Connect,Audio,In App,14,5,2,3,1,20.12,53
+JL-0079,Cameron,Pacific Northwest,Active,Slipping,Monthly,2026-05-20,18,Rest,Move,Community Prompt,Email,9,4,1,1,2,16.29,37
+JL-0080,Jamie,Northeast,Active,Building,Annual,2025-03-24,440,Move,Nourish,Community Prompt,In App,13,4,3,1,2,53.5,58
+JL-0081,Taylor,West,Trial,New,Monthly,2024-10-01,614,Rest,Move,Audio,App Push,9,3,2,1,1,66.02,40
+JL-0082,Casey,Northeast,Trial,New,Annual,2026-05-26,12,Mindful,Move,Video,App Push,10,5,4,3,2,51.2,54
+JL-0083,Skyler,Pacific Northwest,Canceled,Dormant,Free,2026-02-12,115,Mindful,Move,Live Session,In App,10,5,2,3,3,44.94,63
+JL-0084,Taylor,Northeast,Trial,New,Monthly,2026-05-20,18,Connect,Organize,Community Prompt,Email,9,5,3,1,1,57.4,41
+JL-0085,Morgan,Midwest,Trial,New,Monthly,2026-01-23,135,Rest,Mindful,Community Prompt,In App,11,4,2,1,0,39.56,36
+JL-0086,Skyler,Northeast,Canceled,Dormant,Free,2025-12-24,165,Rest,Nourish,Video,App Push,5,2,1,1,1,66.53,39
+JL-0087,Jamie,Northeast,Paused,Building,Annual,2025-11-15,204,Rest,Mindful,Audio,In App,21,12,5,2,2,38.36,90
+JL-0088,Skyler,Northeast,Active,New,Monthly,2026-05-31,7,Nourish,Mindful,Community Prompt,In App,16,8,5,3,1,25.59,75
+JL-0089,Cameron,Northeast,Active,Building,Shop Only,2026-02-19,108,Move,Nourish,Audio,App Push,20,11,6,5,1,23.39,92
+JL-0090,Sage,Midwest,Active,Building,Monthly,2026-05-07,31,Rest,Mindful,Community Prompt,App Push,13,5,2,1,1,22.64,50
+JL-0091,Emerson,Pacific Northwest,Paused,Established,Shop Only,2025-08-26,285,Organize,Nourish,Video,App Push,27,11,3,12,4,20.29,98
+JL-0092,Riley,Southwest,Trial,Established,Free,2025-02-16,476,Rest,Organize,Article,Email,19,12,7,6,2,27.02,96
+JL-0093,Riley,Midwest,Active,Building,Monthly,2025-08-09,302,Move,Connect,Community Prompt,App Push,22,13,7,5,2,51.82,98
+JL-0094,Taylor,Pacific Northwest,Active,Building,Monthly,2025-07-09,333,Rest,Organize,Article,In App,17,8,5,5,3,16.45,92
+JL-0095,Taylor,Pacific Northwest,Prospect,Prospect,Free,2024-09-12,633,Mindful,Connect,Checklist,In App,12,7,5,3,1,40.38,58
+JL-0096,Harper,Southeast,Trial,Established,Annual,2026-03-30,69,Move,Connect,Video,In App,21,7,5,6,3,60.36,98
+JL-0097,Sage,Midwest,Paused,Dormant,Free,2026-04-19,49,Connect,Mindful,Live Session,App Push,4,1,1,1,2,31.21,35
+JL-0098,Drew,Pacific Northwest,Canceled,Established,Free,2026-02-22,105,Move,Nourish,Video,Web,30,16,12,3,3,29.82,98
+JL-0099,Jordan,Southwest,Active,New,Monthly,2025-09-22,258,Mindful,Move,Checklist,Email,16,8,6,0,0,40.22,77
+JL-0100,Avery,Pacific Northwest,Active,Building,Shop Only,2024-06-20,717,Move,Nourish,Checklist,Email,13,6,3,4,3,44.98,71
+JL-0101,Sage,Southwest,Prospect,Prospect,Free,2026-02-15,112,Move,Organize,Community Prompt,In App,15,10,5,2,0,53.32,60
+JL-0102,Morgan,Southwest,Trial,Building,Shop Only,2026-05-03,35,Rest,Nourish,Live Session,App Push,24,8,5,2,0,53.76,80
+JL-0103,Emerson,Northeast,Active,New,Monthly,2026-02-21,106,Rest,Nourish,Checklist,App Push,16,5,3,4,1,66.29,73
+JL-0104,Harper,Pacific Northwest,Canceled,Established,Free,2024-11-20,564,Nourish,Rest,Audio,SMS,19,6,3,8,2,34.71,84
+JL-0105,Cameron,West,Prospect,Prospect,Free,2025-10-09,241,Rest,Nourish,Live Session,Web,10,5,4,3,2,64.98,56
+JL-0106,Riley,West,Trial,New,Shop Only,2025-09-02,278,Connect,Move,Checklist,In App,8,3,1,1,2,35.87,51
+JL-0107,Rowan,Southeast,Active,Building,Monthly,2025-04-18,415,Organize,Nourish,Article,App Push,25,12,6,2,1,32.81,98
+JL-0108,Harper,West,Active,New,Free,2026-02-23,104,Rest,Mindful,Audio,App Push,12,7,5,2,0,16.22,59
+JL-0109,Morgan,Northeast,Active,Established,Free,2025-12-27,162,Move,Mindful,Video,Email,25,16,12,2,1,23.94,98
+JL-0110,Parker,Midwest,Active,Established,Annual,2025-11-07,212,Connect,Nourish,Audio,Email,23,15,8,3,1,66.02,98
+JL-0111,Morgan,Southwest,Prospect,Prospect,Free,2025-09-15,265,Rest,Organize,Live Session,In App,7,3,1,4,2,40.48,45
+JL-0112,Casey,West,Active,Building,Monthly,2026-03-12,87,Connect,Mindful,Live Session,Web,22,7,4,4,0,44.62,82
+JL-0113,Logan,Midwest,Canceled,Dormant,Free,2024-11-16,568,Mindful,Organize,Community Prompt,Email,10,3,1,0,2,28.64,40
+JL-0114,Emerson,Pacific Northwest,Trial,Building,Free,2026-01-05,153,Organize,Move,Community Prompt,In App,23,9,3,3,1,46.5,84
+JL-0115,Kendall,Southwest,Prospect,Prospect,Free,2025-09-30,250,Rest,Mindful,Checklist,App Push,10,4,1,1,2,50.22,54
+JL-0116,Skyler,Southwest,Trial,New,Shop Only,2026-05-08,30,Nourish,Organize,Article,Email,16,8,3,2,3,18.82,75
+JL-0117,Skyler,West,Active,Building,Free,2026-05-19,19,Move,Rest,Checklist,SMS,24,10,4,3,0,25.06,80
+JL-0118,Jamie,Midwest,Prospect,Prospect,Free,2026-04-23,45,Organize,Nourish,Live Session,App Push,11,4,2,5,1,53.16,58
+JL-0119,Avery,Northeast,Active,Established,Shop Only,2025-12-30,159,Mindful,Organize,Community Prompt,In App,21,7,4,6,3,67.41,98
+JL-0120,Logan,Southeast,Prospect,Prospect,Free,2026-05-17,21,Mindful,Connect,Video,Email,13,6,2,2,3,21.76,68
+JL-0121,Kendall,West,Active,Building,Monthly,2024-08-22,654,Nourish,Organize,Video,App Push,16,5,4,1,3,31.71,75
+JL-0122,Avery,Pacific Northwest,Prospect,Prospect,Free,2025-01-13,510,Organize,Nourish,Article,In App,10,6,3,4,1,54.47,54
+JL-0123,Jamie,Midwest,Active,Building,Shop Only,2024-06-26,711,Rest,Mindful,Community Prompt,In App,22,9,6,4,2,66.58,98
+JL-0124,Reese,West,Active,Established,Annual,2026-04-12,56,Rest,Move,Video,Email,20,11,7,7,1,29.97,98
+JL-0125,Avery,Northeast,Paused,Building,Free,2026-02-21,106,Connect,Nourish,Checklist,Email,24,14,11,2,0,48.13,98
+JL-0126,Finley,West,Active,Slipping,Monthly,2025-09-07,273,Mindful,Move,Video,Web,6,2,1,0,3,44.29,44
+JL-0127,Jordan,Pacific Northwest,Active,Building,Free,2026-03-09,90,Mindful,Organize,Article,App Push,25,16,8,2,1,59.69,98
+JL-0128,Reese,Midwest,Active,Building,Annual,2024-08-03,673,Connect,Nourish,Community Prompt,Email,16,7,4,3,0,63.79,66
+JL-0129,Harper,West,Trial,New,Monthly,2025-04-30,403,Rest,Organize,Article,App Push,13,4,3,4,2,41.3,67
+JL-0130,Reese,Northeast,Prospect,Prospect,Free,2025-12-15,174,Organize,Connect,Article,In App,9,5,4,3,1,56.04,62
+JL-0131,Jamie,Southeast,Canceled,Dormant,Free,2024-08-17,659,Nourish,Organize,Checklist,Email,3,2,1,2,2,35.78,28
+JL-0132,Taylor,Southeast,Prospect,Prospect,Free,2026-02-11,116,Mindful,Move,Community Prompt,In App,21,13,6,0,1,23.02,91
+JL-0133,Reese,Pacific Northwest,Prospect,Prospect,Free,2025-11-18,201,Nourish,Connect,Checklist,App Push,8,5,2,1,1,40.22,39
+JL-0134,Jamie,Midwest,Active,Building,Monthly,2026-05-19,19,Mindful,Rest,Live Session,Email,22,9,5,2,1,43.59,90
+JL-0135,Avery,Midwest,Active,New,Free,2026-05-08,30,Connect,Organize,Live Session,App Push,13,8,2,2,3,16.16,72
+JL-0136,Parker,Southwest,Active,Established,Annual,2025-02-01,491,Rest,Nourish,Checklist,Web,26,8,6,4,5,18.99,98
+JL-0137,Logan,Pacific Northwest,Canceled,Dormant,Free,2025-07-27,315,Nourish,Rest,Community Prompt,App Push,6,3,2,2,1,57.28,36
+JL-0138,Sage,Southeast,Active,Established,Monthly,2025-01-19,504,Mindful,Connect,Live Session,Email,25,7,4,6,4,62.24,98
+JL-0139,Jamie,Midwest,Canceled,Dormant,Free,2026-05-13,25,Nourish,Move,Community Prompt,In App,6,2,2,1,2,31.3,38
+JL-0140,Skyler,Midwest,Active,Slipping,Monthly,2025-05-10,393,Rest,Organize,Checklist,In App,15,6,4,4,2,49.77,73
+JL-0141,Parker,Southeast,Active,New,Annual,2025-03-19,445,Rest,Connect,Article,App Push,9,5,3,3,1,57.46,46
+JL-0142,Reese,Southeast,Canceled,Building,Free,2026-05-31,7,Rest,Mindful,Article,App Push,17,7,3,3,2,34.52,71
+JL-0143,Finley,Pacific Northwest,Active,Slipping,Monthly,2025-11-16,203,Mindful,Move,Article,App Push,10,6,4,1,3,49.97,66
+JL-0144,Emerson,West,Trial,New,Annual,2026-05-20,18,Connect,Move,Checklist,Email,16,10,7,5,0,49.43,77
+JL-0145,Jordan,Southeast,Active,Building,Monthly,2026-01-30,128,Organize,Mindful,Video,SMS,16,8,5,4,1,46.49,69
+JL-0146,Quinn,Midwest,Paused,Dormant,Free,2024-07-27,680,Mindful,Move,Live Session,In App,3,2,1,3,0,19.39,30
+JL-0147,Riley,Southwest,Active,Established,Monthly,2025-07-31,311,Rest,Organize,Community Prompt,App Push,26,8,6,0,3,24.47,98
+JL-0148,Drew,Midwest,Active,Established,Annual,2024-08-03,673,Organize,Rest,Checklist,Web,23,7,3,9,4,29.76,98
+JL-0149,Drew,Midwest,Active,Slipping,Monthly,2025-10-27,223,Nourish,Mindful,Article,In App,4,1,1,3,0,53.29,23
+JL-0150,Jordan,West,Active,Slipping,Monthly,2024-08-31,645,Nourish,Move,Video,In App,10,5,1,1,0,27.14,37
+JL-0151,Parker,Southwest,Active,Building,Free,2026-04-02,66,Rest,Organize,Article,Web,18,6,2,0,1,34.73,55
+JL-0152,Harper,West,Trial,Building,Monthly,2025-07-24,318,Rest,Organize,Community Prompt,Email,19,11,5,1,3,53.05,85
+JL-0153,Quinn,West,Active,Slipping,Shop Only,2025-05-16,387,Mindful,Organize,Community Prompt,Email,17,8,2,3,0,44.45,56
+JL-0154,Quinn,Southeast,Active,Building,Monthly,2026-04-17,51,Mindful,Organize,Article,Web,25,8,4,1,2,60.43,98
+JL-0155,Rowan,Southeast,Active,Slipping,Free,2025-10-07,243,Nourish,Move,Video,In App,16,5,3,3,2,16.4,81
+JL-0156,Riley,Northeast,Paused,Slipping,Annual,2026-03-04,95,Move,Connect,Audio,Email,7,4,2,0,3,43.64,56
+JL-0157,Riley,Midwest,Active,New,Monthly,2025-05-14,389,Move,Mindful,Community Prompt,In App,15,6,5,2,1,25.38,71
+JL-0158,Drew,West,Active,New,Monthly,2026-05-31,7,Rest,Organize,Article,App Push,13,7,3,2,1,58.87,67
+JL-0159,Reese,West,Active,New,Annual,2026-05-17,21,Move,Nourish,Article,SMS,19,11,5,2,1,19.43,86
+JL-0160,Finley,Southeast,Active,Established,Annual,2026-02-13,114,Organize,Move,Article,App Push,20,10,5,3,4,25.32,98
+JL-0161,Kendall,Pacific Northwest,Paused,Established,Annual,2025-07-16,326,Connect,Nourish,Audio,Email,19,11,8,4,1,46.59,88
+JL-0162,Reese,Pacific Northwest,Active,New,Free,2026-05-18,20,Nourish,Move,Audio,Email,16,10,8,3,1,17.29,91
+JL-0163,Cameron,Pacific Northwest,Prospect,Prospect,Free,2026-01-04,154,Organize,Connect,Checklist,In App,14,7,2,5,1,66.16,62
+JL-0164,Finley,Pacific Northwest,Trial,Building,Monthly,2025-05-26,377,Organize,Move,Audio,In App,14,5,2,1,2,47.61,66
+JL-0165,Logan,Pacific Northwest,Canceled,Slipping,Free,2025-11-26,193,Organize,Mindful,Community Prompt,SMS,3,2,2,2,0,28.46,19
+JL-0166,Kendall,Southeast,Trial,New,Monthly,2025-10-08,242,Nourish,Organize,Article,App Push,16,9,5,0,0,20.24,65
+JL-0167,Avery,Northeast,Active,Established,Monthly,2026-01-30,128,Nourish,Rest,Audio,In App,19,9,4,9,4,23.31,96
+JL-0168,Sage,Northeast,Active,Building,Monthly,2026-03-21,78,Mindful,Rest,Article,In App,20,12,3,3,1,36.46,71
+JL-0169,Jamie,Midwest,Prospect,Prospect,Free,2026-01-20,138,Connect,Move,Live Session,Email,8,2,1,2,1,43.96,45
+JL-0170,Jamie,Midwest,Paused,Slipping,Free,2026-05-07,31,Mindful,Nourish,Checklist,Web,8,5,1,3,3,58.49,54
+JL-0171,Harper,Northeast,Canceled,Dormant,Free,2026-01-06,152,Mindful,Connect,Article,Email,7,2,1,2,2,63.61,36
+JL-0172,Harper,Southwest,Paused,Dormant,Monthly,2025-11-27,192,Connect,Move,Live Session,In App,1,1,1,2,1,65.95,29
+JL-0173,Jordan,Pacific Northwest,Trial,New,Free,2026-05-26,12,Rest,Connect,Audio,Email,9,3,2,0,1,29.71,45
+JL-0174,Sage,Northeast,Trial,New,Annual,2026-05-21,17,Connect,Mindful,Article,In App,18,7,5,0,1,47.58,74
+JL-0175,Avery,Southeast,Active,New,Annual,2026-05-22,16,Connect,Organize,Video,Email,14,4,2,2,2,63.75,64
+JL-0176,Jamie,Midwest,Trial,Established,Shop Only,2024-12-26,528,Mindful,Connect,Video,In App,31,9,5,11,4,55.29,98
+JL-0177,Cameron,Northeast,Active,Slipping,Monthly,2025-03-06,458,Connect,Organize,Checklist,App Push,17,11,6,1,1,48.97,76
+JL-0178,Reese,Midwest,Active,Slipping,Shop Only,2026-05-22,16,Organize,Mindful,Checklist,In App,8,4,2,3,2,42.48,58
+JL-0179,Morgan,Pacific Northwest,Active,Established,Monthly,2025-08-10,301,Rest,Connect,Article,App Push,19,7,4,1,1,30.57,68
+JL-0180,Cameron,Pacific Northwest,Canceled,Dormant,Free,2026-02-28,99,Organize,Rest,Community Prompt,In App,6,3,2,3,1,17.38,33
+JL-0181,Taylor,Pacific Northwest,Active,New,Monthly,2026-01-11,147,Organize,Mindful,Checklist,SMS,14,5,4,4,3,60.2,77
+JL-0182,Finley,Midwest,Active,New,Annual,2026-04-28,40,Rest,Move,Video,In App,10,3,2,2,2,22.4,53
+JL-0183,Emerson,Pacific Northwest,Active,Established,Free,2025-05-09,394,Nourish,Organize,Video,In App,28,16,9,5,3,24.43,98
+JL-0184,Taylor,Southeast,Active,New,Monthly,2025-09-08,272,Move,Connect,Article,App Push,15,5,1,2,1,50.43,47
+JL-0185,Jordan,West,Paused,Building,Annual,2025-08-09,302,Nourish,Mindful,Checklist,App Push,19,5,2,2,0,40.66,58
+JL-0186,Skyler,Northeast,Paused,Dormant,Annual,2025-10-22,228,Connect,Move,Community Prompt,Email,11,6,4,3,2,64.74,72
+JL-0187,Taylor,Northeast,Active,New,Annual,2024-12-31,523,Organize,Connect,Community Prompt,Email,16,8,4,2,1,31.87,67
+JL-0188,Riley,Southeast,Paused,Dormant,Free,2025-12-12,177,Connect,Rest,Checklist,In App,2,1,1,0,1,46.94,22
+JL-0189,Casey,Southeast,Canceled,Established,Free,2025-09-14,266,Move,Connect,Video,App Push,23,9,4,3,1,46.74,78
+JL-0190,Reese,Midwest,Trial,Established,Free,2025-12-12,177,Nourish,Rest,Video,SMS,21,7,3,4,4,26.33,96
+JL-0191,Sage,Midwest,Active,New,Free,2026-04-21,47,Nourish,Connect,Live Session,App Push,10,5,2,0,2,53.68,41
+JL-0192,Sage,Northeast,Paused,Slipping,Monthly,2026-03-11,88,Nourish,Organize,Audio,Email,7,3,2,1,3,30.5,48
+JL-0193,Emerson,West,Trial,Building,Monthly,2026-03-17,82,Move,Connect,Article,Email,19,10,5,3,3,61.84,98
+JL-0194,Avery,Northeast,Prospect,Prospect,Free,2025-05-27,376,Mindful,Connect,Live Session,App Push,15,10,6,1,1,54.53,71
+JL-0195,Logan,Midwest,Active,Building,Monthly,2026-05-16,22,Organize,Nourish,Video,Email,15,10,4,4,3,66.7,74
+JL-0196,Finley,Midwest,Prospect,Prospect,Free,2026-03-14,85,Connect,Organize,Community Prompt,In App,7,2,1,4,0,65.69,29
+JL-0197,Avery,Southeast,Paused,Dormant,Monthly,2024-11-06,578,Nourish,Mindful,Live Session,App Push,14,9,4,1,0,51,62
+JL-0198,Finley,West,Active,Slipping,Monthly,2025-04-27,406,Mindful,Rest,Video,In App,7,3,2,1,2,17.82,40
+JL-0199,Parker,Northeast,Active,Established,Annual,2025-07-15,327,Mindful,Move,Article,Email,31,13,7,0,0,61.29,98
+JL-0200,Finley,Pacific Northwest,Trial,New,Annual,2026-05-14,24,Organize,Move,Checklist,App Push,14,7,5,3,0,20.79,68
+JL-0201,Parker,Pacific Northwest,Paused,Dormant,Free,2024-08-09,667,Move,Nourish,Video,Email,6,2,1,1,1,61.03,28
+JL-0202,Sage,West,Trial,Building,Shop Only,2026-01-24,134,Connect,Move,Audio,Email,12,4,3,5,0,63.31,56
+JL-0203,Emerson,Midwest,Active,Established,Free,2026-01-23,135,Mindful,Organize,Audio,Email,26,11,7,8,3,30.91,98
+JL-0204,Rowan,Pacific Northwest,Canceled,Dormant,Free,2026-05-26,12,Rest,Connect,Video,In App,14,9,3,4,2,46.87,63
+JL-0205,Logan,West,Prospect,Prospect,Free,2026-02-06,121,Organize,Move,Article,SMS,20,12,8,4,0,63.27,88
+JL-0206,Reese,Pacific Northwest,Active,New,Monthly,2025-03-09,455,Mindful,Organize,Community Prompt,In App,17,8,6,2,3,50.49,86
+JL-0207,Jamie,West,Trial,New,Annual,2026-05-30,8,Organize,Move,Video,App Push,14,8,5,4,1,39.64,80
+JL-0208,Emerson,Southeast,Prospect,Prospect,Free,2026-04-13,55,Organize,Mindful,Community Prompt,App Push,20,9,4,1,1,34.92,81
+JL-0209,Casey,Midwest,Trial,New,Monthly,2024-09-08,637,Organize,Nourish,Audio,Email,21,12,8,4,1,22,98
+JL-0210,Quinn,Pacific Northwest,Active,Building,Monthly,2026-04-25,43,Move,Nourish,Video,Email,17,11,5,1,1,31.02,74
+JL-0211,Rowan,Southwest,Paused,Slipping,Free,2026-02-07,120,Rest,Connect,Audio,Email,12,6,4,1,1,59.43,50
+JL-0212,Avery,Southwest,Active,Established,Monthly,2025-04-28,405,Rest,Organize,Video,Email,19,8,4,2,2,64.3,82
+JL-0213,Casey,Southeast,Prospect,Prospect,Free,2025-08-30,281,Rest,Move,Community Prompt,In App,18,5,2,1,2,17.09,75
+JL-0214,Reese,Northeast,Active,Building,Annual,2026-02-11,116,Organize,Connect,Live Session,In App,16,9,6,1,2,60.53,81
+JL-0215,Morgan,West,Trial,New,Monthly,2026-05-21,17,Move,Nourish,Video,In App,14,8,4,4,2,47.57,74
+JL-0216,Quinn,Southeast,Active,Building,Monthly,2025-10-14,236,Mindful,Rest,Checklist,In App,13,5,4,3,0,63.06,55
+JL-0217,Avery,Pacific Northwest,Canceled,Dormant,Free,2025-03-04,460,Connect,Mindful,Community Prompt,Email,13,4,3,1,3,22.61,61
+JL-0218,Jamie,Northeast,Active,Slipping,Annual,2024-07-14,693,Rest,Connect,Live Session,Email,13,9,5,3,1,22.8,69
+JL-0219,Emerson,West,Active,Building,Monthly,2026-03-31,68,Move,Organize,Checklist,SMS,21,10,5,4,1,52.59,87
+JL-0220,Avery,Southwest,Canceled,Dormant,Free,2026-05-31,7,Rest,Move,Article,Email,7,3,2,1,3,62.91,58
+JL-0221,Harper,West,Paused,Established,Free,2025-10-15,235,Nourish,Mindful,Video,App Push,20,12,5,5,3,40.79,95
+JL-0222,Rowan,Southeast,Active,New,Monthly,2026-05-27,11,Nourish,Organize,Community Prompt,Email,17,8,5,1,2,45.07,79
+JL-0223,Parker,West,Active,Building,Monthly,2025-12-16,173,Mindful,Connect,Community Prompt,App Push,14,8,4,2,0,34.36,61
+JL-0224,Jamie,Northeast,Active,Established,Annual,2026-05-29,9,Nourish,Organize,Live Session,In App,18,8,2,8,1,42.99,74
+JL-0225,Riley,Northeast,Active,Building,Free,2026-03-03,96,Connect,Rest,Community Prompt,Email,20,9,7,3,1,18.84,96
+JL-0226,Quinn,Pacific Northwest,Active,Building,Monthly,2024-11-21,563,Organize,Move,Audio,App Push,19,11,4,0,3,53.95,86
+JL-0227,Taylor,Midwest,Prospect,Prospect,Free,2024-08-25,651,Nourish,Rest,Audio,Email,12,7,3,1,2,52.12,58
+JL-0228,Rowan,Southwest,Canceled,Dormant,Free,2025-02-04,488,Nourish,Mindful,Live Session,Email,10,4,1,2,1,60.63,46
+JL-0229,Rowan,Pacific Northwest,Active,New,Annual,2025-10-25,225,Mindful,Organize,Video,Email,15,9,4,5,3,28.35,92
+JL-0230,Jordan,Southwest,Active,Established,Monthly,2024-09-15,630,Rest,Mindful,Audio,Email,26,16,11,0,4,62.16,98
+JL-0231,Sage,Southwest,Active,Building,Annual,2026-04-11,57,Organize,Move,Article,In App,26,9,4,0,3,28.93,98
+JL-0232,Rowan,Northeast,Active,Established,Annual,2025-06-30,342,Mindful,Nourish,Audio,Email,30,14,4,4,4,49.04,98
+JL-0233,Casey,Southeast,Active,Building,Annual,2024-12-08,546,Rest,Mindful,Community Prompt,App Push,24,9,5,2,2,56.54,98
+JL-0234,Drew,Southeast,Active,Building,Shop Only,2024-07-20,687,Mindful,Nourish,Article,App Push,16,8,3,2,2,46.14,70
+JL-0235,Kendall,Northeast,Active,New,Free,2026-05-20,18,Rest,Nourish,Article,Email,20,10,6,3,3,60.89,98
+JL-0236,Casey,Southeast,Prospect,Prospect,Free,2026-01-01,157,Connect,Mindful,Audio,SMS,9,5,3,4,3,66.66,57
+JL-0237,Drew,Pacific Northwest,Active,Building,Monthly,2024-08-07,669,Nourish,Move,Audio,App Push,18,6,3,5,2,31.74,89
+JL-0238,Quinn,Southwest,Active,Building,Monthly,2026-03-13,86,Move,Rest,Live Session,App Push,20,9,6,3,3,63.5,91
+JL-0239,Parker,Northeast,Active,Building,Monthly,2026-05-11,27,Move,Rest,Checklist,Web,20,11,8,1,3,20.01,98
+JL-0240,Morgan,Southwest,Active,Established,Annual,2026-04-29,39,Move,Organize,Video,In App,27,10,6,5,1,19.27,98
+JL-0241,Harper,Pacific Northwest,Active,New,Monthly,2025-12-18,171,Organize,Move,Community Prompt,In App,8,3,2,4,1,45.56,46
+JL-0242,Sage,Southwest,Active,New,Annual,2026-05-15,23,Connect,Mindful,Audio,In App,21,9,4,4,1,20.39,88
+JL-0243,Emerson,Northeast,Prospect,Prospect,Free,2026-02-19,108,Rest,Organize,Audio,In App,20,11,3,3,0,37.2,76
+JL-0244,Kendall,Southwest,Active,Slipping,Monthly,2026-02-16,111,Move,Nourish,Article,App Push,10,6,3,0,0,42.65,45
+JL-0245,Finley,Southeast,Canceled,Dormant,Free,2026-01-14,144,Organize,Rest,Live Session,Email,8,4,3,4,1,22.41,49
+JL-0246,Harper,Northeast,Canceled,Dormant,Free,2026-05-09,29,Nourish,Rest,Video,Email,9,6,5,3,2,63.83,60
+JL-0247,Morgan,West,Active,Building,Monthly,2025-10-15,235,Nourish,Rest,Video,In App,22,7,4,3,1,65.39,84
+JL-0248,Skyler,West,Active,Slipping,Free,2026-04-17,51,Rest,Connect,Community Prompt,Email,16,7,5,3,2,64.04,87
+JL-0249,Casey,Northeast,Active,Slipping,Annual,2025-11-16,203,Connect,Rest,Checklist,In App,13,4,2,2,2,56.53,52
+JL-0250,Cameron,Midwest,Prospect,Prospect,Free,2025-01-13,510,Move,Connect,Live Session,Email,8,5,2,5,2,43.09,59
+JL-0251,Sage,West,Paused,Building,Annual,2025-12-03,186,Organize,Rest,Article,App Push,24,8,4,4,0,48.67,92
+JL-0252,Skyler,Pacific Northwest,Active,Building,Free,2026-05-05,33,Organize,Nourish,Audio,Email,16,10,4,1,1,56.22,68
+JL-0253,Finley,Southeast,Prospect,Prospect,Free,2026-04-24,44,Organize,Move,Checklist,In App,17,8,4,1,3,59.2,77
+JL-0254,Kendall,West,Active,Established,Free,2024-12-16,538,Rest,Move,Checklist,In App,27,12,3,10,2,16.47,98
+JL-0255,Drew,Northeast,Active,Established,Annual,2024-10-25,590,Rest,Connect,Live Session,Email,19,6,3,6,2,16.3,86
+JL-0256,Cameron,Northeast,Active,Building,Monthly,2026-03-17,82,Rest,Nourish,Checklist,Email,24,14,11,3,2,31.1,98
+JL-0257,Riley,Southeast,Active,Established,Shop Only,2026-03-01,98,Mindful,Nourish,Audio,Email,28,11,5,8,3,48.98,98
+JL-0258,Kendall,Southeast,Active,Slipping,Annual,2026-02-18,109,Rest,Nourish,Video,In App,11,4,3,3,0,48.15,43
+JL-0259,Drew,Midwest,Trial,Established,Annual,2024-09-20,625,Organize,Nourish,Audio,Email,24,9,4,8,4,49.55,98
+JL-0260,Riley,Midwest,Prospect,Prospect,Free,2025-06-06,366,Connect,Rest,Video,Email,18,7,4,1,0,30.72,66
+JL-0261,Reese,West,Active,Established,Shop Only,2025-02-23,469,Organize,Connect,Video,App Push,26,9,7,10,3,60.19,98
+JL-0262,Logan,Pacific Northwest,Canceled,Dormant,Free,2026-01-07,151,Organize,Mindful,Checklist,Email,10,5,3,5,0,50,48
+JL-0263,Harper,Midwest,Active,Building,Annual,2025-10-03,247,Organize,Nourish,Live Session,Email,13,4,3,4,1,50.39,59
+JL-0264,Finley,Pacific Northwest,Active,Building,Monthly,2024-09-11,634,Connect,Rest,Article,Web,24,12,5,2,1,35.97,83
+JL-0265,Avery,Northeast,Active,Building,Monthly,2025-11-26,193,Rest,Connect,Community Prompt,In App,19,8,5,4,0,17.01,80
+JL-0266,Jamie,Southwest,Active,Established,Monthly,2025-11-05,214,Move,Connect,Article,App Push,25,14,9,7,4,50.04,98
+JL-0267,Parker,Northeast,Active,Building,Monthly,2025-10-04,246,Rest,Connect,Audio,App Push,13,7,5,0,1,47.5,70
+JL-0268,Jamie,West,Active,Building,Monthly,2025-12-20,169,Connect,Mindful,Article,Email,23,7,3,3,3,40.1,92
+JL-0269,Kendall,Pacific Northwest,Prospect,Prospect,Free,2025-04-20,413,Rest,Connect,Audio,Email,15,5,3,3,2,65.64,75
+JL-0270,Rowan,Midwest,Active,Building,Annual,2025-11-24,195,Rest,Move,Article,In App,19,6,4,4,3,48.25,97
+JL-0271,Avery,Southeast,Paused,Slipping,Monthly,2025-08-08,303,Move,Nourish,Video,SMS,13,7,3,5,1,29.17,59
+JL-0272,Taylor,Pacific Northwest,Active,Building,Annual,2025-12-05,184,Nourish,Connect,Live Session,Email,15,4,1,1,3,31,67
+JL-0273,Jamie,Pacific Northwest,Active,Slipping,Free,2026-04-06,62,Connect,Nourish,Article,Email,11,4,2,4,0,22.04,54
+JL-0274,Taylor,Southeast,Active,Slipping,Annual,2026-02-18,109,Connect,Move,Audio,App Push,5,3,1,1,2,17.79,43
+JL-0275,Avery,Pacific Northwest,Trial,New,Shop Only,2025-08-18,293,Nourish,Organize,Audio,In App,8,3,1,3,0,54.16,28
+JL-0276,Parker,Southeast,Active,New,Annual,2024-09-28,617,Move,Nourish,Community Prompt,App Push,13,5,1,2,2,18.59,56
+JL-0277,Casey,Midwest,Active,Building,Free,2025-08-05,306,Move,Connect,Community Prompt,In App,14,8,5,3,2,39.19,72
+JL-0278,Jordan,Southwest,Active,New,Monthly,2026-05-14,24,Rest,Mindful,Community Prompt,App Push,15,6,3,4,0,63.73,66
+JL-0279,Kendall,Pacific Northwest,Active,Established,Annual,2024-07-28,679,Organize,Move,Article,App Push,22,10,4,1,4,67.57,98
+JL-0280,Kendall,Southeast,Active,Building,Monthly,2025-12-10,179,Organize,Rest,Audio,Email,13,5,2,2,2,34.95,68
+JL-0281,Harper,Pacific Northwest,Prospect,Prospect,Free,2026-03-17,82,Connect,Rest,Checklist,App Push,12,4,1,2,2,44.93,50
+JL-0282,Drew,Pacific Northwest,Paused,Established,Monthly,2026-03-06,93,Mindful,Organize,Video,In App,30,9,2,8,0,26.63,93
+JL-0283,Casey,Southwest,Trial,New,Monthly,2025-10-01,249,Connect,Move,Audio,App Push,19,12,7,5,2,45.7,98
+JL-0284,Harper,Midwest,Active,Established,Shop Only,2024-09-03,642,Nourish,Connect,Video,App Push,19,9,6,5,2,19.15,98
+JL-0285,Harper,Midwest,Active,Established,Monthly,2025-01-27,496,Mindful,Rest,Checklist,App Push,29,17,11,11,3,29.84,98
+JL-0286,Jordan,Pacific Northwest,Active,Established,Monthly,2026-05-25,13,Mindful,Organize,Video,SMS,28,15,12,1,1,48.72,98
+JL-0287,Sage,Midwest,Prospect,Prospect,Free,2025-07-22,320,Nourish,Move,Community Prompt,Web,19,7,4,1,3,61.29,86
+JL-0288,Jamie,West,Active,Established,Annual,2025-11-19,200,Move,Rest,Video,In App,21,11,3,11,4,24.57,98
+JL-0289,Skyler,Pacific Northwest,Paused,Slipping,Monthly,2026-05-14,24,Mindful,Organize,Live Session,In App,16,7,4,4,1,25.24,80
+JL-0290,Finley,West,Paused,Building,Monthly,2025-08-31,280,Organize,Rest,Community Prompt,SMS,23,8,2,3,3,62.63,86
+JL-0291,Taylor,Southeast,Active,Building,Monthly,2025-11-16,203,Mindful,Move,Community Prompt,In App,12,6,2,4,1,35.2,57
+JL-0292,Parker,Midwest,Active,Established,Monthly,2025-05-20,383,Nourish,Rest,Article,In App,23,8,6,9,3,24.46,98
+JL-0293,Sage,Midwest,Active,Slipping,Monthly,2026-02-08,119,Nourish,Mindful,Checklist,Email,9,5,2,3,1,45.07,51
+JL-0294,Logan,Midwest,Active,Established,Monthly,2025-08-17,294,Nourish,Connect,Video,In App,25,13,8,8,3,39.34,98
+JL-0295,Morgan,Southwest,Active,Slipping,Monthly,2025-11-16,203,Mindful,Nourish,Community Prompt,Email,11,4,3,3,2,63.15,70
+JL-0296,Taylor,West,Canceled,Established,Free,2024-08-21,655,Rest,Nourish,Checklist,SMS,21,13,6,9,5,53.91,98
+JL-0297,Riley,Pacific Northwest,Active,New,Monthly,2026-04-12,56,Connect,Mindful,Video,Email,14,7,3,3,2,28.41,62
+JL-0298,Reese,West,Active,Building,Annual,2025-08-28,283,Mindful,Rest,Community Prompt,Email,15,10,3,4,1,30.14,61
+JL-0299,Casey,West,Active,New,Shop Only,2026-04-21,47,Move,Rest,Live Session,App Push,11,7,4,4,3,23.21,67
+JL-0300,Sage,Southeast,Trial,New,Monthly,2026-05-28,10,Nourish,Mindful,Audio,Email,16,10,5,2,3,47.24,74

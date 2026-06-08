@@ -1,0 +1,7 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Juniper Loop mark">
+  <rect width="256" height="256" rx="56" fill="#245447"/>
+  <path d="M128 50C171.1 50 206 84.9 206 128C206 171.1 171.1 206 128 206C84.9 206 50 171.1 50 128C50 84.9 84.9 50 128 50Z" stroke="#F4EADC" stroke-width="16"/>
+  <path d="M86 132C110 95 154 86 184 102C174 139 134 168 92 158C84 156 80 141 86 132Z" fill="#8FBF7F"/>
+  <path d="M91 154C121 136 146 118 181 104" stroke="#245447" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="84" cy="82" r="13" fill="#E9B66D"/>
+</svg>
